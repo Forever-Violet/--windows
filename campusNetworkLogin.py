@@ -261,13 +261,6 @@ class MyWindow(QWidget):
             'passwordEncrypt': 'false',
         }
         headers = {
-            'Accept': '*/*',
-            'Accept-Encoding': 'gzip, deflate',
-            'Accept-Language': 'en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7',
-            'Connection': 'keep-alive',
-            'Content-Length': '910',
-            'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-            'Cookie': 'EPORTAL_COOKIE_DOMAIN=false; EPORTAL_COOKIE_SAVEPASSWORD=true; EPORTAL_AUTO_LAND=; EPORTAL_COOKIE_OPERATORPWD=; EPORTAL_COOKIE_USERNAME=20200310529; EPORTAL_COOKIE_NEWV=true; EPORTAL_COOKIE_PASSWORD=2ad0c71910f10c0fa7ff403b5af02d70b35c6184b74a88750e0ab7f0b16002f6d2775c5a4cc7b6041b6e30f959837e3109899d3b86cd4455e3d3982e4b743841ce889c6a7ce856ca071126fa3b584682611f9b172b47f3734a23c9a80100062a417864dc979169bca25b8acafb3567668e1e4fd4600fa25cf549644e30a4f198; EPORTAL_COOKIE_SERVER=%E7%A7%BB%E5%8A%A8; EPORTAL_COOKIE_SERVER_NAME=%E7%A7%BB%E5%8A%A8; EPORTAL_USER_GROUP=Student; JSESSIONID=7C8EA0869F23A2A8C02B7EB712A7A952',
             'Host': '10.10.9.4',
             'Origin': 'http://10.10.9.4',
             'Referer': 'http://10.10.9.4/eportal/index.jsp?wlanuserip=2f0c7f6d25d11e1385c70af498077889&wlanacname=451c3f30a97da29045f86d957e89984c&ssid=&nasip=017a864d081217ffa61950f8cb86f6e4&snmpagentip=&mac=4dd78feaa3c341e17c4291eaefb4df3b&t=wireless-v2&url=2c0328164651e2b4f13b933ddf36628bea622dedcc302b30&apmac=&nasid=451c3f30a97da29045f86d957e89984c&vid=22fde3eefcd4789e&port=db52feedfee4bd80&nasportid=5b9da5b08a53a540e26b350a596c2af8e0f8ef9c165ac3524f8c07b8439cc01b',
